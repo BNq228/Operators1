@@ -26,7 +26,7 @@ public class Main {
         }
         //Задание 4
         System.out.println("Задание 4");
-        int yearsold = 13;
+        int yearsold = 19;
         if (yearsold >= 2 && yearsold <=6) {
             System.out.println("Если возраст человека равен " + yearsold + ", то ему нужно ходить в десткий сад");
         } else if (yearsold > 6 && yearsold <= 18) {
