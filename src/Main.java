@@ -20,9 +20,9 @@ public class Main {
         System.out.println("Задание 3");
         int carSpeed = 61;
         if (carSpeed > 60) {
-            System.out.println("Если скорость " + carSpeed + ",км/ч то придется заплатить штраф.");
+            System.out.println("Если скорость " + carSpeed + ",км/ч то придется заплатить штраф");
         } else {
-            System.out.println("Если скорость " + carSpeed + ",км/ч то можно ездить спокойно.");
+            System.out.println("Если скорость " + carSpeed + ",км/ч то можно ездить спокойно");
         }
         //Задание 4
         System.out.println("Задание 4");
